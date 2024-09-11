@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Qustion app</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_Company_name">Enter your Company name</string>
+    <string name="navigate_to_profile">navigate to profile</string>
+    <string name="user_img">user img</string>
+    <string name="f_name">F.name</string>
+    <string name="company_name">Company</string>
+</resources>
